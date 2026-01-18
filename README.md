@@ -1,7 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NIK MUHAMMAD FAKHRUL AZMI BIN NIK AZLAN
 ================================================================================================================================================================
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakhrulazmi06/fakhrulazmi06/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fakhrulazmi06/fakhrulazmi06/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fakhrulazmi06/fakhrulazmi06/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
 1st Year | Bachelor in Computer Science(Network and Security) with Honoured in UTM
 
@@ -122,12 +128,5 @@ I am 1st Years student for Computer Science(Network and Security) with honoured 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakhrulazmi06/fakhrulazmi06/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fakhrulazmi06/fakhrulazmi06/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fakhrulazmi06/fakhrulazmi06/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
