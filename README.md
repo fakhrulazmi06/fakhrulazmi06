@@ -19,9 +19,12 @@ I am 1st Years student for Computer Science(Network and Security) with honoured 
 
 ## 📚 Education
 
-- **Bachelor in Computer Science(Network and Security) with Honoured** at **UNIVERSITY TECHNOLOGY MALAYSIA (UTM)** (2025 - 2029)
-- **Basic Engineering** at **KOLEJ MATRIKULASI KEJURUTERAAN PAHANG (KMKPH)** (2024-2025)
-- **PURE SCIENCE** at **SEKOLAH MENENGAH SAINS SETIU** (TERENGGANU) (2022-2024)
+*   **Bachelor in Computer Science (Network and Security) with Honours** at **Universiti Teknologi Malaysia (UTM)** (2025 - 2029)
+*   **Basic Engineering** at **Kolej Matrikulasi Kejuruteraan Pahang (KMKPH)** (2024-2025)
+    *   CGPA: 4.00
+    *   MUET: BAND 4.0
+*   **Pure Science** at **Sekolah Menengah Sains Setiu** (Terengganu) (2022-2024)
+    *   SPM: 8A 1B
 
 ## 🏅 Positions & Leadership
 
