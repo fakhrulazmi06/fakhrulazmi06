@@ -1,7 +1,92 @@
 # 💫 About Me:
-📝 GENERAL INFORMATION<br><br>NAME : NIK MUHAMMAD FAKHRUL AZMI BIN NIK AZLAN<br>SECTION : 05<br>COURSENAME : TECHNOLOGY AND INFORMATION SYSTEM<br>COURSE CODE : SECP1513<br>LECTURER : ASSOCIATE PROF DR.AZURAH BINTI A SAMAH<br><br>
 
 ## 1st Year | Bachelor in Computer Science(Network and Security) with Honoured in UTM
+
+# 🎓 My E-Portfolio
+
+Welcome to my professional e-portfolio! This repository documents my academic journey, technical skills, project work, and reflections throughout my studies.
+
+## 👤 Profile
+
+<br>NAME : NIK MUHAMMAD FAKHRUL AZMI BIN NIK AZLAN<br>SECTION : 05<br>COURSENAME : TECHNOLOGY AND INFORMATION SYSTEM<br>COURSE CODE : SECP1513<br>LECTURER : ASSOCIATE PROF DR.AZURAH BINTI A SAMAH<br><br>
+
+**LinkedIn:** https://www.linkedin.com/in/fakhrul-azmi
+
+## 📝 Summary
+I am 1st Years student for Computer Science(Network and Security) with honoured in UTM
+
+## 🎯 Core Information
+
+### 📚 Education
+ **Bachelor in Computer Science(Network and Security) with Honoured** at **UNIVERSITY TECHNOLOGY MALAYSIA (UTM)** (2025 - 2029)
+ 
+## 🛠️ Technical Skills
+**Programming Languages:** Python, Java, JavaScript, C++  
+**Web Development:** HTML 
+**Tools & Platforms:** Git, VS Code  
+
+## 🔧 Projects
+
+- **SECP 1513 TECHNOLOGY AND INFORMATION SYSTEM** (1/2025-2026)
+  - Key Topics: DESIGN THINKINGS (ADHD project)
+  - Projects: AWARDNESS TO ADHD
+
+- **SECR 1013 DIGITAL LOGIC** (1/2025-2026)
+  - Key Topics: FLIP FLOP,ASYNCHRONOUS AND SYNCHRONOUS 
+  - Projects: FINAL PROJECT ( 3 BIT UP AND DOWN LIFT SYSTEM T FLIP FLOP)
+
+
+## 📚 Assignments & Reflections
+
+### 1. Industry Talk and Industry Visit
+**Date:** 23 December 2025  
+**Company/Organization:** Biocon Sdn.Bhd 
+<br>**Speaker:**  En.Jaya ( DP OPERATION )
+
+#### Reflection
+**What I Gained:**
+- I got motivations from him about skills that I need to prepare for my future when I entering real works environment
+
+**Suggestions for Improvement:**
+- I feel too cold when I visiting the industry due to labour temperature,I hope the coat can be more thick to make me comfort
+**Additional Reflections:**
+- From the visit,l know that l need to be discipline person because discipline really important at anywhere we worked
+
+### 2. PC Assembly Lab
+**Date:** 12 Novermber 2025
+**Objective:** To teach us how to assemble a PC to ensure it works perfectly
+
+#### Reflection
+**What I Gained:**
+- Hands-on experience with computer hardware components
+- Understanding of compatibility between different PC parts
+- Troubleshooting skills for hardware issues
+- Appreciation for hardware and software interaction
+
+**Suggestions for Improvement:**
+- I hope more I can do it all by personal to train my skill but its not possible due to less of PC amount available
+
+**Additional Reflections:**
+- I can trained my brain to memorize more
+
+### 3. Design Thinking
+<br>**Project:** Awareness to ADHD  
+<br>**Date:** 11/1/2026 
+<br>**Team Members:** WONG LI HONG ,NUR DINA ALYSA BINTI MOHD.NOR AZHAR,MALEK ALRIHAWI and me NIK MUHAMMAD FAKHRUL AZMI BIN NIK AZLAN 
+
+#### Reflection
+**What I Gained:**
+- Understanding of user centered design principles
+- Experience with rapid prototyping techniques
+- Skills in user research and empathy mapping
+- Ability to iterate designs based on feedback
+
+
+**Suggestions for Improvement:**
+- Not many information that we can find in platform,I hope there will be more information that we can used
+
+**Additional Reflections:**
+- This design thinking really trained me to solve any problem and provide the best of the best solution 
 
 
 ## 🌐 Socials:
