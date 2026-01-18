@@ -17,13 +17,34 @@ I am 1st Years student for Computer Science(Network and Security) with honoured 
 
 ## 🎯 Core Information
 
-### 📚 Education
- **Bachelor in Computer Science(Network and Security) with Honoured** at **UNIVERSITY TECHNOLOGY MALAYSIA (UTM)** (2025 - 2029)
+## 📚 Education
+
+- **Bachelor in Computer Science(Network and Security) with Honoured** at **UNIVERSITY TECHNOLOGY MALAYSIA (UTM)** (2025 - 2029)
+- **Basic Engineering** at **KOLEJ MATRIKULASI KEJURUTERAAN PAHANG (KMKPH)** (2024-2025)
+- **PURE SCIENCE** at **SEKOLAH MENENGAH SAINS SETIU** (TERENGGANU) (2022-2024)
+
+## 🏅 Positions & Leadership
+
+### Education & Activities
+
+- **Bachelor of Computer Science (Network and Security) with Honours**  
+  **University Technology Malaysia (UTM)** | 2025 – 2029  
+  - Athlete representing **Kolej Tun Razak**
+
+- **Foundation in Basic Engineering**  
+  **Kolej Matrikulasi Kejuruteraan Pahang (KMKPH)** | 2024 – 2025  
+  - Active member of the **Fitness Club**
+
+- **Pre-University: Pure Science**  
+  **Sekolah Menengah Sains Setiu (Terengganu)** | 2022 – 2024  
+  - **Sports Hall Leader**
+
  
 ## 🛠️ Technical Skills
+
 **Programming Languages:** Python, Java, JavaScript, C++  
 **Web Development:** HTML 
-**Tools & Platforms:** Git, VS Code  
+<br>**Tools & Platforms:** Git, VS Code  
 
 ## 🔧 Projects
 
