@@ -1,6 +1,9 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NIK MUHAMMAD FAKHRUL AZMI BIN NIK AZLAN
+================================================================================================================================================================
 
-## 1st Year | Bachelor in Computer Science(Network and Security) with Honoured in UTM
+
+
+1st Year | Bachelor in Computer Science(Network and Security) with Honoured in UTM
 
 # 🎓 My E-Portfolio
 
