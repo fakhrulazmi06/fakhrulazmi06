@@ -34,6 +34,8 @@ I am 1st Years student for Computer Science(Network and Security) with honoured 
     *   MUET: BAND 4.0
 *   **Pure Science** at **Sekolah Menengah Sains Setiu** (Terengganu) (2022-2024)
     *   SPM: 8A 1B
+*   **Sekolah Kebangsaan Seneng** (2013-2018)
+    *   UPSR : 5A 1B
 
 ## 🏅 Positions & Leadership
 
