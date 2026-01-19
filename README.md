@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 🎓 My E-Portfolio
 
-Welcome to my professional e-portfolio! This repository documents my academic journey, technical skills, project work, and reflections throughout my studies.
+Welcome to my professional e-portfolio! This repository documents present my academic journey, technical skills, project work, and reflections throughout my studies.
 
 https://fakhrulazmi06.github.io/
 
